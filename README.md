@@ -11,11 +11,10 @@ Mediante el uso de técnicas estadísticas y de visualización de datos se esper
 
 
 **Table of Contents**
-
-[TOCM]
-
-[TOC]
-
+* [Descripción de la solución](#descripción-de-la-solución)
+* [Requerimientos](#requerimientos)
+* [Ejemplos de Codigo](#ejemplos-de-codigo)
+* [Autores](#autores)
 
 #### Descripción de la solución
 #### Requerimientos
