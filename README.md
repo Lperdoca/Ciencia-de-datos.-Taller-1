@@ -17,6 +17,15 @@ Mediante el uso de técnicas estadísticas y de visualización de datos se esper
 * [Autores](#autores)
 
 #### Descripción de la solución
+Para establecer la mejor opción de inversión inmobiliaria basada en los datos de Airbnb en Santiago de Chile, la estrategia de análisis se desarrolló en varias etapas que permitieron identificar patrones y tendencias clave.
+
+En primera instancia, se realiza un análisis básico para garantizar la calidad y limpieza de los datos antes de realizar cualquier análisis estadístico o de visualización; en esta fase inicial se identificaron valores nulos, inconsistencias y posibles outliers. Una vez el dataset se encuentra limpio se realiza un análisis descriptivo para el entendimiento de los datos, con enfoque en las variables precio, ubicación, tipo de propiedad, calificaciones de los usuarios y comodidades de los inmuebles. El análisis estadístico aplicado a las variables mencionadas incluye cálculos como la media, mediana, desviación estándar, percentiles, entre otros. 
+
+Posteriormente, se lleva a cabo un análisis univariado y multivariado utilizando visualizaciones como histogramas, gráficos de barras, mapas de calor, diagramas de cajas y de violín, así como gráficos de dispersión y de densidad, logrando identificar relaciones entre las variables clave mencionadas y patrones importantes en los datos. También se aplicaron técnicas más avanzadas, como regresiones y análisis de clustering, para agrupar propiedades con características similares, determinar los sectores más prometedores para la inversión e identificar las zonas con mejor rentabilidad potencial, brindando a los inversionistas una base sólida para tomar decisiones informadas.
+
+Finalmente, se integran todos estos resultados para proporcionar recomendaciones claras y basadas en datos.
+
+
 #### Requerimientos
 #### Ejemplos de código
 ```
