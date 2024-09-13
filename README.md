@@ -12,8 +12,9 @@ Mediante el uso de técnicas estadísticas y de visualización de datos se esper
 
 **Table of Contents**
 * [Descripción de la solución](#descripción-de-la-solución)
-* [Requerimientos](#requerimientos)
-* [Ejemplos de Codigo](#ejemplos-de-codigo)
+* [Conclusiones](#conclusiones)
+* [Dependencias](#dependencias)
+* [Instrucciones de ejecución](#instrucciones_de_ejecucion)
 * [Autores](#autores)
 
 #### Descripción de la solución
@@ -25,14 +26,17 @@ Posteriormente, se lleva a cabo un análisis univariado y multivariado utilizand
 
 Finalmente, se integran todos estos resultados para proporcionar recomendaciones claras y basadas en datos.
 
-
-#### Requerimientos
-#### Ejemplos de código
-```
-git clone https://github.com/Lperdoca/Ciencia-de-datos.-Taller-1.git
+#### Conclusiones
 
 
-```
+#### Dependencias
+
+
+#### Instrucciones de ejecución
+Se generaron dos notebooks para el desarrollo del taller los cuales deben ejecuatrse en el siguiente orden: 
+1. EDA_AirBnb_Santiago de Chile
+2. Hypothesis-testing_AirBnb
+
 #### Autores
 
 
