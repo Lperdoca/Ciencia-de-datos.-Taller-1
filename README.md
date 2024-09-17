@@ -29,7 +29,7 @@ Finalmente, se aplican los test de Mann-Whitney y Chi-squared e integran todos e
 
 #### Conclusiones
 
-Con base en el análisis realizado, se recomienda enfocar las inversiones en comunas que presentan un balance adecuado entre precio y demanda, como Providencia y Las Condes, con una preferencia por departamentos o casa enteras que ofrezcan una capacidad de alojamiento para 4 personas y combinación de comodidades clave como WiFi, agua caliente y cocina equipada, dado su impacto en la satisfacción del usuario y la tasa de ocupación.
+Con base en el análisis realizado, se recomienda enfocar las inversiones en comunas que presentan un balance adecuado entre precio y demanda, como Providencia y Las Condes, con una preferencia por departamentos o casas enteras que ofrezcan una capacidad de alojamiento para 4 personas y combinación de comodidades clave como WiFi, agua caliente y cocina equipada, dado su impacto en la satisfacción del usuario y la tasa de ocupación.
 
 Estas propiedades, ubicadas en áreas de alta demanda y bien calificadas por los usuarios, presentan una mayor rentabilidad a largo plazo. 
 
