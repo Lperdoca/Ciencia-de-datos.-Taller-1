@@ -29,9 +29,15 @@ Finalmente, se aplican los test de Mann-Whitney y Chi-squared e integran todos e
 
 #### Conclusiones
 
+Con base en el análisis realizado, se recomienda enfocar las inversiones en comunas que presentan un balance adecuado entre precio y demanda, como Providencia y Las Condes, con una preferencia por departamentos o casa enteras que ofrezcan una capacidad de alojamiento para 4 personas y combinación de comodidades clave como WiFi, agua caliente y cocina equipada, dado su impacto en la satisfacción del usuario y la tasa de ocupación.
+
+Estas propiedades, ubicadas en áreas de alta demanda y bien calificadas por los usuarios, presentan una mayor rentabilidad a largo plazo. 
+
+Estas recomendaciones están basadas en un análisis detallado de datos y estadísticas, proporcionando una base sólida para maximizar las probabilidades de éxito en el competitivo mercado de alquiler vacacional de Santiago de Chile.
 
 
 #### Instrucciones de Ejecución
+
 Se generaron dos notebooks para el desarrollo de los puntos 2 y 4 del taller los cuales deben ejecutarse en el siguiente orden: 
 1. EDA_AirBnb_Santiago de Chile
 2. Hypothesis-testing_AirBnb
